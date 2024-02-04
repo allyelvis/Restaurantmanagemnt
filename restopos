@@ -1,6 +1,6 @@
 // ASP.NET MVC framework
 // Example MVC controller code
-public class PointOfSaleController : Controller
+public class PointOfSale:Controller
 {
     public IActionResult Index()
     {
