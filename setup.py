@@ -4,10 +4,10 @@ setup(
     name='Restaurantmanagemnt',
     version='0.1.0',
     packages=find_packages(),
-    url='https://github.com/yourusername/Restaurantmanagemnt',
+    url='https://github.com/allyelvis/Restaurantmanagemnt',
     license='MIT',
     author="ALLYELVIS",
-    author_email='your.email@example.com',
+    author_email='allyelvis6569@gmail.com',
     description='A restaurant management system including point of sale and accounting features',
     install_requires=[
         'flask',  # Add other dependencies as required
